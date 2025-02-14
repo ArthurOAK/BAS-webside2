@@ -1,0 +1,29 @@
+{
+  "successful": 47,
+  "projects": [
+    {
+      "project_name": "Government Complex",
+      "project_contract_value": "20M THB",
+      "project_system": "BAS, EMS,RMS,CPMS",
+      "project_image": "gc.webp"
+    },
+    {
+      "project_name": "SCG HQ Bangsue",
+      "project_contract_value": "12M THB",
+      "project_system": "ACS, VMS, LIFT DESTINATION",
+      "project_image": "scg.webp"
+    },
+    {
+      "project_name": "PTT New Data Center Chonburi",
+      "project_contract_value": "20M THB",
+      "project_system": "BAS, ACS, CPMS",
+      "project_image": "ptt_chonburi.webp"
+    },
+    {
+      "project_name": "UOB HQ Sukhumvit & Petchakasem",
+      "project_contract_value": "50M THB",
+      "project_system": "BAS, FAS, ACS, CCTV, ROAD, BLOCKER",
+      "project_image": "uob.webp"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Building Management System (BMS)",
+    "image": "BAS.webp",
+    "description": {
+      "en": "It is an automatic control system that helps manage various parts of a building, such as air conditioning, lighting, and entry and exit systems. and security system The goal is to increase quality, safety, and comfort for building users.",
+      "th": "เป็นระบบควบคุมอัตโนมัติที่ช่วยจัดการส่วนต่างๆ ของอาคาร เช่น ระบบปรับอากาศ ระบบแสงสว่าง ระบบการเข้าออก และระบบรักษาความปลอดภัย โดยมีเป้าหมายเพื่อเพิ่มคุณภาพ ความปลอดภัย และความสะดวกสบายให้กับผู้ใช้อาคาร"
+    },
+    "type": "office",
+    "isFeatured": true
+  },
+  {
+    "title": "Retail Management System",
+    "image": "RMS.webp",
+    "description": {
+      "en": "Designed for retail businesses, this system supports sales and inventory management, handles a large number of SKUs, and enables multi-point connectivity. It can operate as a stand-alone system or through a client/server setup.",
+      "th": "ออกแบบมาสำหรับธุรกิจค้าปลีก เพื่อการบริหารการขายและสินค้าคงคลัง ระบบรองรับ SKU จำนวนมากและการเชื่อมต่อหลายจุด สามารถทำงานแบบ stand alone หรือผ่านระบบ client/server ได้"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Chiller Plant Management System",
+    "image": "ChillerPlant.webp",
+    "description": {
+      "en": "Used for controlling the operation of refrigeration equipment, this system can be managed via computer to enhance energy efficiency.",
+      "th": "ใช้สำหรับควบคุมการทำงานของอุปกรณ์ทำความเย็น โดยสามารถควบคุมได้ผ่านคอมพิวเตอร์เพื่อเพิ่มประสิทธิภาพการใช้พลังงาน"
+    },
+    "type": "factory",
+    "isFeatured": false
+  },
+  {
+    "title": "Lighting System",
+    "image": "light.webp",
+    "description": {
+      "en": "An intelligent lighting control system linked to relevant parts that allows controlling the lighting both inside and outside of a place for convenience and energy saving.",
+      "th": "ระบบควบคุมแสงสว่างอัจฉริยะที่เชื่อมโยงกับส่วนต่างๆ ที่เกี่ยวข้อง ช่วยให้สามารถควบคุมแสงได้ทั้งภายในและภายนอกสถานที่เพื่อความสะดวกและประหยัดพลังงาน"
+    },
+    "type": "factory",
+    "isFeatured": true
+  },
+  {
+    "title": "Variable Speed Drive (VSD)",
+    "image": "Variable-Speed-Drive.webp",
+    "description": {
+      "en": "A device that controls the speed of motors according to the load, improving efficiency in the production process.",
+      "th": "อุปกรณ์ควบคุมความเร็วรอบของมอเตอร์ให้เหมาะสมกับโหลด เพื่อเพิ่มประสิทธิภาพในกระบวนการผลิต"
+    },
+    "type": "factory",
+    "isFeatured": false
+  },
+  {
+    "title": "PICV Valve",
+    "image": "PICV-Valve.webp",
+    "description": {
+      "en": "A pressure-independent valve used in temperature control systems in buildings to improve efficiency and energy saving in air conditioning systems.",
+      "th": "วาล์วควบคุมแรงดันอิสระที่ใช้ในระบบควบคุมอุณหภูมิในอาคาร ช่วยเพิ่มประสิทธิภาพและประหยัดพลังงานในระบบปรับอากาศ"
+    },
+    "type": "factory",
+    "isFeatured": false
+  },
+  {
+    "title": "Access Control System",
+    "image": "Access-Control-System.webp",
+    "description": {
+      "en": "An automated access control system designed to restrict access to data or areas, especially for security purposes.",
+      "th": "ระบบควบคุมการเข้าออกอัตโนมัติที่ออกแบบมาเพื่อจำกัดการเข้าถึงข้อมูลหรือพื้นที่ โดยเฉพาะสำหรับการรักษาความปลอดภัย"
+    },
+    "type": "office",
+    "isFeatured": true
+  },
+  {
+    "title": "CCTV System",
+    "image": "cctv.webp",
+    "description": {
+      "en": "A surveillance system to monitor and ensure security, transmitting images to a control screen in real-time.",
+      "th": "ระบบกล้องวงจรปิดเพื่อการตรวจสอบและรักษาความปลอดภัย โดยส่งภาพไปยังจอควบคุมได้แบบเรียลไทม์"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Digital Door Lock",
+    "image": "Digital-Door-Lock.webp",
+    "description": {
+      "en": "A smart door lock that can automatically open or close with multiple authentication methods such as fingerprint scanning or Bluetooth.",
+      "th": "กลอนประตูอัจฉริยะที่สามารถเปิด-ปิดอัตโนมัติด้วยการยืนยันตัวตนหลากหลายแบบ เช่น การสแกนลายนิ้วมือ และการใช้บลูทูธ"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Turnstile",
+    "image": "optical-turnstiles.webp",
+    "description": {
+      "en": "An automatic turnstile that allows one person to pass at a time, preventing unauthorized access to areas.",
+      "th": "เครื่องกั้นคนอัตโนมัติที่อนุญาตให้บุคคลผ่านเข้า-ออกได้ทีละคน เพื่อป้องกันการเข้าพื้นที่โดยไม่ได้รับอนุญาต"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Road Blocker and Bollard",
+    "image": "Road-Blocker-and-Bollard.webp",
+    "description": {
+      "en": "Vehicle blocking equipment designed to withstand impact, increasing safety in critical areas from vehicle attacks.",
+      "th": "อุปกรณ์กั้นรถที่ออกแบบให้ทนทานต่อแรงชน เพื่อเพิ่มความปลอดภัยในพื้นที่สำคัญจากการโจมตีของยานพาหนะ"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Smart Pole",
+    "image": "smart pole.webp",
+    "description": {
+      "en": "An intelligent street pole integrating multiple technologies, such as CCTV cameras and weather monitoring systems, to enhance the quality of life and safety in communities.",
+      "th": "เสาไฟอัจฉริยะที่ผสานเทคโนโลยีหลากหลาย เช่น กล้อง CCTV และระบบตรวจสอบสภาพอากาศ เพื่อเพิ่มคุณภาพชีวิตและความปลอดภัยของชุมชน"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Fire Alarm System",
+    "image": "Fire-Alarm-System.webp",
+    "description": {
+      "en": "A fire detection and alert system for detecting fire, smoke, and other fire-related emergencies.",
+      "th": "ระบบแจ้งเตือนอัคคีภัยเพื่อการตรวจจับไฟ ควัน และเหตุฉุกเฉินอื่นๆ ที่เกี่ยวข้องกับเพลิงไหม้"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Flood Level Sensor",
+    "image": "flood level.webp",
+    "description": {
+      "en": "A flood level sensor that sends alerts to smartphones, enabling responsible personnel to take timely action.",
+      "th": "อุปกรณ์ตรวจจับระดับน้ำท่วมที่ส่งสัญญาณเตือนไปยังสมาร์ทโฟนเพื่อให้ผู้รับผิดชอบเข้ามาแก้ไขปัญหาได้ทันเวลา"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "Public Address System/IP Phone",
+    "image": "Public-Address-System.webp",
+    "description": {
+      "en": "An IP-based public address system for communication within an organization.",
+      "th": "ระบบประกาศเสียงผ่าน IP protocol สำหรับการสื่อสารภายในองค์กร"
+    },
+    "type": "office",
+    "isFeatured": false
+  },
+  {
+    "title": "X-Ray Scanner",
+    "image": "X-Ray-Scanner.webp",
+    "description": {
+      "en": "A scanner using electromagnetic waves to detect foreign objects, ideal for detecting metals and other dangerous materials.",
+      "th": "อุปกรณ์สแกนเพื่อค้นหาสิ่งแปลกปลอมโดยใช้หลักการคลื่นแม่เหล็กไฟฟ้า เหมาะสำหรับการตรวจจับโลหะและวัสดุอันตรายอื่นๆ"
+    },
+    "type": "office",
+    "isFeatured": false
+  }
+]

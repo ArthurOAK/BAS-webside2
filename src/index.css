@@ -1,0 +1,33 @@
+@import './fonts/font.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@layer base {
+  html {
+    font-family:
+      'Poppins',
+      'Noto Sans Thai' sans-serif;
+  }
+}
+
+html, body {
+  background-color: #191A19;
+}
+
+::-moz-selection {
+  color: black;
+  background: #61fa87;
+}
+
+::selection {
+  color: black;
+  background: #61fa87;
+}
