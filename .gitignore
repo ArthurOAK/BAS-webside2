@@ -24,9 +24,7 @@ dist-ssr
 *.sw?
 
 # locales
-src/locales/*.json
-src/locales/*.json
-src/constants/translation.ts
+
 
 # Environment Variable
 .env

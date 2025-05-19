@@ -1,0 +1,77 @@
+{
+    "home": {
+      "hero": {
+        "title": {
+          "main": "We Prepare <br/> For The <span style=\"color: #3c883c;\">Future<span/>",
+          "quote": "The most advanced, the safest, the most economical <br /> \"All For You, For All of Us\""
+        },
+        "highlights": {
+          "1": "We will bring advanced technology and highest effectiveness.",
+          "2": "We are a company with good quality in all aspects.",
+          "3": "We will develop capacity at all times."
+        }
+      },
+      "about": {
+        "portfolio": {
+          "experience": "Years of <br/> Experience",
+          "year": "Years",
+          "project": "Completed <br/> Projects"
+        },
+        "description": "Building Advanced Solution Company Limited, Called “BAS” was founded on September 21, 2011 with registered capital of 15 million baht, With that goal. We are a company with the best quality and service in the distribution and installation of equipment in engineering.<br/><br/>BAS is the official distributor of many different groups together. We focus on all products. And have a team that specializes in a particular category as well. And most importantly, we have spare parts that are reserved for customers with a value of more than 5 million baht all the time"
+      },
+      "partner": "Exclusive Partner with BAS",
+      "service": {
+        "title": "Our Services",
+        "description": "Our services encompass applications in buildings and various areas, covering security, energy management, and user convenience within the building.",
+        "button": "Explore All Services"
+      },
+      "project": {
+        "title": "Featured Project",
+        "button": "Explore All Projects",
+        "specializes": "Our team, certified by Johnson Controls, specializes in advanced building automation, HVAC systems, and energy efficiency solutions. We deliver high-quality, innovative projects that meet industry standards and exceed client expectations. From smart buildings to energy-saving solutions, trust us to provide sustainable, efficient, and cutting-edge solutions for your needs.",
+        "detail": {
+          "1": "Value",
+          "2": "System"
+        }
+      },
+      "contact": {
+        "title": "The leader in security system installation",
+        "list": {
+          "1": "Professional Staff",
+          "2": "Satisfaction 100%",
+          "3": "Accurate Testing",
+          "4": "Transparent Pricing"
+        },
+        "info": {
+          "title": "Contact Info",
+          "company": "Building Advanced Solution Co., Ltd.",
+          "location": "2/1 Soi Nonthaburi 14, Intersection 4, Bang Krasor Subdistrict, Nonthaburi, Thailand 11000",
+          "contact": "Contact",
+          "open": {
+            "title": "Opening Hours",
+            "day": "Monday - Friday",
+            "time": "09:00 AM - 06:00 PM"
+          }
+        }
+      }
+    },
+    "service": {
+      "title": "Our Services",
+      "filter": {
+        "title": "Service Level",
+        "type": {
+          "office": "House, Office",
+          "factory": "Factory",
+          "others": "Others"
+        }
+      }
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "service": "Services",
+      "project": "Projects",
+      "contact": "Contact Us"
+    }
+  }
+  
