@@ -21,6 +21,7 @@ const App: React.FC = (): JSX.Element => {
         <AnimatePresence initial mode="wait">
           <Routes location={location} key={location.pathname}>
             <Route index path={BASE_PATH} element={<Home />} />
+            <Route index path="/test" element={<div style={{ color: 'white' }}>Hello</div>} />
 
             <Route path={SERVICE_PATH} element={<Service />} />
 
