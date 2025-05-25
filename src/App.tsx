@@ -20,7 +20,7 @@ const App: React.FC = (): JSX.Element => {
         <Navbar />
         <AnimatePresence initial mode="wait">
           <Routes location={location} key={location.pathname}>
-            <Route path={BASE_PATH} element={<Home />} />
+            <Route index path={BASE_PATH} element={<Home />} />
 
             <Route path={SERVICE_PATH} element={<Service />} />
 
