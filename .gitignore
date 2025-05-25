@@ -37,3 +37,5 @@ scripts/data
 scripts/locales
 
 config/
+
+pnpm-lock.yaml
